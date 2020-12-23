@@ -44,7 +44,7 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 	
 	b.	RGB byte order: **RGB**
 	
-	c.	Target IP / Hostname: **\<ip address of WLED controller> **
+	c.	Target IP / Hostname: **\<ip address of WLED controller>**
 	
 8.	Select LED Layout Tab
 
