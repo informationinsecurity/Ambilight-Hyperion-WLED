@@ -42,34 +42,34 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 
 	a.	Controller type: **wled**
 	
-	b.	RGB byte order:** RGB**
+	b.	RGB byte order: **RGB**
 	
-	c.	Target IP / Hostname: ** \<ip address of WLED controller> **
+	c.	Target IP / Hostname: **\<ip address of WLED controller> **
 	
 8.	Select LED Layout Tab
 
 	a.	Configure this as needed. My settings for my 60in TV are:
 	
-		i.	Top and Bottom – ** 40 LEDs **
+	  i.	Top and Bottom: **40 LEDs**
 	
-		ii.	Sides – ** 22 LEDs **
+	  ii.	Sides – **22 LEDs**
 	
-		iii.	Set input position to where you are starting your leds from. The flow should match your wiring
+	  iii.	Set input position to where you are starting your leds from. The flow should match your wiring
 	
 9.	Select Capturing Hardware
-	a.	Enable the option “** Enable USB Capture **”
+	a.	Enable the option “**Enable USB Capture **”
 	
 	b.	For USB Capture settings I use the following (they may need tweaking)
 	
-		i.	Device: ** USB Video **
+	  i.	Device: **USB Video **
 		
-		ii.	Video Standard: ** NTSC **
+	  ii.	Video Standard: **NTSC **
 		
-		iii.	Device Resolution: ** 640x480 **
+	  iii.	Device Resolution: **640x480 **
 		
-		iv.	** 20 FPS **
+	  iv.	**20 FPS**
 		
-		v.	Size Decimation: ** 3 **
+	  v.	Size Decimation: **3**
 		
 	c.	Save configuration
 	
