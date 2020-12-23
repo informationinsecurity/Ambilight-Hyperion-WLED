@@ -57,15 +57,15 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 	  iii.	Set input position to where you are starting your leds from. The flow should match your wiring
 	
 9.	Select Capturing Hardware
-	a.	Enable the option “**Enable USB Capture **”
+	a.	Enable the option “**Enable USB Capture**”
 	
 	b.	For USB Capture settings I use the following (they may need tweaking)
 	
-	  i.	Device: **USB Video **
+	  i.	Device: **USB Video**
 		
-	  ii.	Video Standard: **NTSC **
+	  ii.	Video Standard: **NTSC**
 		
-	  iii.	Device Resolution: **640x480 **
+	  iii.	Device Resolution: **640x480**
 		
 	  iv.	**20 FPS**
 		
