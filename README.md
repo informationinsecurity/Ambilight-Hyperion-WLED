@@ -29,7 +29,7 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 	
 	c.	Data wire (**Green**) goes to D4 on ESP8266
 	
-3.	Setup Raspberry pi on Raspbian (or any other linux OS)
+3.	Setup Raspberry pi on Raspbian (or any other linux OS) - This is a tutorial with the tools I prefer- https://siytek.com/how-to-install-raspbian-to-sd-card-using-etcher/
 
 4.	Install Hyperion NG on Pi - https://github.com/hyperion-project/hyperion.ng/releases
 
