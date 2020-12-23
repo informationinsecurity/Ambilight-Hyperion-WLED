@@ -3,9 +3,9 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 
 # Parts List
 
+  	•	ESP8266 NodeMCU microcontroller - https://www.amazon.com/gp/product/B081CSJV2V/
+	
 	•	HDMI -> USB capture card - https://www.amazon.com/gp/product/B08G4T1NDJ/
-
- 	•	Led strip angle connectors - https://www.amazon.com/gp/product/B087Q7QYMG/
 
   	•	4K hdmi splitter (1 4k 1 1080p)- https://www.amazon.com/gp/product/B07DQBY5TX/
 
@@ -13,9 +13,9 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 
   	•	LED Strip power supply (5v)- https://www.amazon.com/gp/product/B082D97W98/
 
-  	•	ESP8266 NodeMCU microcontroller - https://www.amazon.com/gp/product/B081CSJV2V/
+ 	•	Led strip angle connectors - https://www.amazon.com/gp/product/B087Q7QYMG/
 
-  	•	Misc items – 2 HDMI cables, microusb cable, wires, soldering iron
+  	•	Misc items – Raspberry Pi(I'm  using a 4, but a zero W should work), 2 HDMI cables, microusb cable, wires, soldering iron
 
 # Instructions 
 
