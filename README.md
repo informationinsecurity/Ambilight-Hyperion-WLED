@@ -54,7 +54,7 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 	
 	  ii.	Sides – **22 LEDs**
 	
-	  iii.	Set input position to where you are starting your leds from. Select the LED number that matches the position where your strip begins. In my case I started in the bottome right corner, which was LED position 75.
+	  iii.	Set input position to where you are starting your leds from. Select the LED number that matches the position where your strip begins. In my case I started in the bottom right corner, which was LED position 75.
 	
 9.	Select Capturing Hardware
 
