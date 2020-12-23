@@ -1,5 +1,5 @@
 # Ambilight-Hyperion-WLED
-This is a set of instructions on how to make a DIY ambilight configuration with an rPi, ESP8266 and individually addressable LED strip
+This is a set of instructions on how to make a DIY ambilight configuration with an rPi, ESP8266 and individually addressable LED strip. There are many ways to accomplish this, for example hooking the lights directly to the pi, however I wanted a clean, wireless look, which made running the LEDs behind the tv with WLED and running hyperion on the pi down below where my Apple Tv is.
 
 # Parts List
 
