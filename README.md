@@ -7,7 +7,7 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 	
 	•	HDMI -> USB capture card - https://www.amazon.com/gp/product/B08G4T1NDJ/
 
-  	•	4K hdmi splitter (1 4k 1 1080p)- https://www.amazon.com/gp/product/B07DQBY5TX/
+  	•	4K hdmi splitter (1-4k output for TV, 1-1080p output for Hyperion)- https://www.amazon.com/gp/product/B07DQBY5TX/
 
   	•	Individually addressable LED strip (WS2812B)-https://www.amazon.com/gp/product/B07FVP54GQ/
 
