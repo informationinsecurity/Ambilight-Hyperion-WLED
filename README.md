@@ -23,11 +23,11 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 
 2.	Wire the LED strip to the ESP8266 and test WLED to confirm it works
 	
-	a.	Power wire (Red) from LED goes to VIN on ESP8266
+	a.	Power wire (**Red**) from LED goes to VIN on ESP8266
 	
-	b.	Ground wire (Black) from LED goes to GND on ESP8266
+	b.	Ground wire (**Black**) from LED goes to GND on ESP8266
 	
-	c.	Data wire (Green) goes to D4 on ESP8266
+	c.	Data wire (**Green**) goes to D4 on ESP8266
 	
 3.	Setup Raspberry pi on Raspbian (or any other linux OS)
 
@@ -36,40 +36,40 @@ This is a set of instructions on how to make a DIY ambilight configuration with 
 5.	Wire up all the components- 
 	a.	Input Device (Apple TV in my case -> HDMI Splitter –> one end to tv, other to capture device hdmi -> capture device USB plugged into pi
 	
-6.	Browse to Hyperion webserver (http://\<ip>:8090)
+6.	Browse to Hyperion webserver (**http://\<ip>:8090**)
 
 7.	Select LED Hardware Tab
 
-	a.	Controller type: wled
+	a.	Controller type: **wled**
 	
-	b.	RGB byte order: RGB
+	b.	RGB byte order:** RGB**
 	
-	c.	Target IP / Hostname:  \<ip address of WLED controller>
+	c.	Target IP / Hostname: ** \<ip address of WLED controller> **
 	
 8.	Select LED Layout Tab
 
 	a.	Configure this as needed. My settings for my 60in TV are:
 	
-		i.	Top and Bottom – 40 LEDs
+		i.	Top and Bottom – ** 40 LEDs **
 	
-		ii.	Sides – 22 LEDs
+		ii.	Sides – ** 22 LEDs **
 	
 		iii.	Set input position to where you are starting your leds from. The flow should match your wiring
 	
 9.	Select Capturing Hardware
-	a.	Enable the option “Enable USB Capture”
+	a.	Enable the option “** Enable USB Capture **”
 	
 	b.	For USB Capture settings I use the following (they may need tweaking)
 	
-		i.	Device- USB Video
+		i.	Device: ** USB Video **
 		
-		ii.	Video Standard NTSC
+		ii.	Video Standard: ** NTSC **
 		
-		iii.	Device Resolution 640x480
+		iii.	Device Resolution: ** 640x480 **
 		
-		iv.	20 FPS
+		iv.	** 20 FPS **
 		
-		v.	Size Decimation 3	
+		v.	Size Decimation: ** 3 **
 		
 	c.	Save configuration
 	
